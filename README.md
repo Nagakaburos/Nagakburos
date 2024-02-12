@@ -1,10 +1,10 @@
 ### Hi there i'm Wan Sanice 🖖🏽 
-Ongoing project: [![Project](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://qdolado.com.br)
+Ongoing project:  [![Project](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://qdolado.com.br)
 
 
 ![Wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagakburos&show_icons=true&theme=tokyonight)
 
-## Technologies used
+## technologies I use and study
 <div style="display:inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white",/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
