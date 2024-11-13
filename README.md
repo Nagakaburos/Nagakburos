@@ -3,8 +3,7 @@
 
 
 ## Ongoing project:  [![Project](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://qdolado.com.br)
-
-![Wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagakburos&show_icons=true&theme=tokyonight)
+![2nd arrow](https://github.com/Nagakburos/Nagakburos/assets/103370604/ef04fd97-07d5-47f8-9676-624997ef3094)
 
 ## technologies I use and study
 <div style="display:inline_block"><br/>
